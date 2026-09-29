@@ -1,0 +1,12 @@
+{
+  "name": "sematia-official",
+  "plugins": [
+    {
+      "name": "st-toolkit",
+      "description": "SemaTIA 官方 ST 工具箱:ST 评审清单 skill + /review-st、/gen-watch-table 斜杠命令",
+      "version": "0.1.0",
+      "author": { "name": "SemaTIA" },
+      "source": "st-toolkit"
+    }
+  ]
+}
