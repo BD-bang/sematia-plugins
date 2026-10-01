@@ -7,6 +7,20 @@
       "version": "0.1.0",
       "author": { "name": "SemaTIA" },
       "source": "st-toolkit"
+    },
+    {
+      "name": "tia-diagnostics-pack",
+      "description": "SemaTIA 官方 TIA 诊断剧本集:tia-diagnose-online(在线诊断判断树)与 tia-download-troubleshoot(下载失败分诊)技能 + /tia-health-check 斜杠命令",
+      "version": "0.1.0",
+      "author": { "name": "SemaTIA" },
+      "source": "tia-diagnostics-pack"
+    },
+    {
+      "name": "commissioning-checklist",
+      "description": "SemaTIA 官方投产检查单:commissioning-review 技能(投产前六维检查清单评审,输出结构化检查报告)+ /commission-check 斜杠命令",
+      "version": "0.1.0",
+      "author": { "name": "SemaTIA" },
+      "source": "commissioning-checklist"
     }
   ]
 }
